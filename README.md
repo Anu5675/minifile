@@ -1,1 +1,1 @@
-# minifile
+# mini_finance_app
